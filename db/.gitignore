@@ -1,0 +1,12 @@
+# gcc object file
+*.o
+*.so
+
+
+# testdb dir
+testdb
+
+./mdb_copy
+mtest
+mtest1
+mtest2
